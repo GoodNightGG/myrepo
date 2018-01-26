@@ -1,3 +1,23 @@
-#My Repo
+---
+layout: default
+---
 
-hello all!
+![avatar](avatar.jpg)
+
+# 小傑XJ
+
+A Nintendo Character
+
+- - -
+
+### about
+
+    超屌雷文台
+
+### Links
+
+ * [尼克的小貓咪](https://www.twitch.tv/goodnightgg)
+ * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
+ * [Why is Kirby always angry in the US? Nintendo explains](http://www.gamespot.com/articles/why-is-kirby-always-angry-in-the-us-nintendo-explains/1100-6419263/)
+
+- - -
